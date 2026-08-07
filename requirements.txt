@@ -1,0 +1,5 @@
+ultralytics>=8.4
+opencv-python>=4.9
+numpy>=1.26
+bluezero>=0.9
+pytest>=8.0
